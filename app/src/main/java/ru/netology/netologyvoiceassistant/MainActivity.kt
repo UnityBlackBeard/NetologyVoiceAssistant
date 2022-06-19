@@ -25,7 +25,7 @@ import kotlinx.coroutines.withContext
 import java.lang.StringBuilder
 
 class MainActivity : AppCompatActivity() {
-    //EA58HT-PULL2XXAGH
+
 
     val TAG: String = "MainActivity"
     lateinit var requestInput: TextInputEditText
