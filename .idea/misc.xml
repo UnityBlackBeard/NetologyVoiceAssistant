@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/drawable/ic_baseline_clear_all_24.xml" value="0.1955" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/drawable/ic_baseline_keyboard_voice_24.xml" value="0.134" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/drawable/ic_baseline_stop_24.xml" value="0.134" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/layout/activity_main.xml" value="0.3169230769230769" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/layout/item_pod.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/NetologyVoiceAssistant/app/src/main/res/menu/toolbar_manu.xml" value="0.32916666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>
