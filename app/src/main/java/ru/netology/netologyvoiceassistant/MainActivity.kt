@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
     var isTtsReady: Boolean = false
 
     val VOICE_RECOGNITION_REQUEST_CODE: Int= 777
-    //EA58HT-PULL2XXAGH
+    
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -128,7 +128,7 @@ class MainActivity : AppCompatActivity() {
 
     fun initWalframEngine() {
         waEngine = WAEngine().apply {
-            appID = "EA58HT-PULL2XXAGH"
+            appID = ""
             addFormat("plaintext")
         }
 
